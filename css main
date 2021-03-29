@@ -120,6 +120,15 @@ PAGE: PORTFOLIO
 /*************************
 PAGE: CONTACT
 *************************/
+.contact info li.phone a {
+    background-image; url(',,/img/phone.png')
+}
+.contact-info li.email a {
+    background-image; url(',,/img/mail.png')
+}
+.contact-info li.twitter a {
+    background-image; url(',,/img/twitter.png')
+}
 
 
 /*************************
